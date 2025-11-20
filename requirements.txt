@@ -1,6 +1,8 @@
-django
+Django>=4.2
 djangorestframework
 pandas
 reportlab
 matplotlib
 python-multipart
+gunicorn
+django-cors-headers
