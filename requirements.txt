@@ -1,6 +1,6 @@
-Django>=4.2
+django
 djangorestframework
-gunicorn
-whitenoise
-dj-database-url
-psycopg2-binary
+pandas
+reportlab
+matplotlib
+python-multipart
